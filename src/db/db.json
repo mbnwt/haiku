@@ -1,0 +1,298 @@
+{
+  "articles": [
+    {
+      "id": 0,
+      "title": "Koledžica",
+      "content": "Gle, koledžica\r\nRazgažena i sama\r\nJesen đonova",
+      "author": "john",
+      "timestamp": "2017-03-19T12:53:17.250Z",
+      "comments": [
+        {
+          "content": "nice haiku",
+          "author": "steve",
+          "timestamp": "2017-04-02T11:45:35.059Z"
+        }
+      ],
+      "favorite": true,
+      "showComments": false
+    },
+    {
+      "id": 1,
+      "title": "Sjetna",
+      "content": "Na brdu podla \r\npanda jodla, a medo\r\npeče rakiju",
+      "author": "john",
+      "timestamp": "2017-03-19T12:56:17.738Z",
+      "comments": [
+        {
+          "content": "vrlo sjetna",
+          "author": "steve",
+          "timestamp": "2017-04-02T11:51:27.639Z"
+        },
+        {
+          "content": "ova ide u favorite",
+          "author": "Mark",
+          "timestamp": "2017-04-02T11:52:09.940Z"
+        }
+      ],
+      "favorite": false,
+      "showComments": false
+    },
+    {
+      "id": 3,
+      "title": "Sjećanje na Toskanu",
+      "content": "Na moru mornar\r\nvesla prema kraju\r\njer nema motor",
+      "author": "john",
+      "timestamp": "2017-03-19T12:59:37.059Z",
+      "comments": [
+        {
+          "content": "kao da sam u toskani",
+          "author": "steve",
+          "timestamp": "2017-04-02T12:00:25.086Z"
+        }
+      ],
+      "favorite": false,
+      "showComments": false
+    },
+    {
+      "id": 5,
+      "title": "Summer",
+      "content": "I really like toast. \r\nIt is yummy when it's hot. \r\nI like it best cold.",
+      "author": "steve",
+      "timestamp": "2017-03-19T13:14:40.849Z",
+      "comments": [
+        {
+          "content": "nostalgija ljeta",
+          "author": "steve",
+          "timestamp": "2017-04-02T11:59:02.887Z"
+        }
+      ],
+      "favorite": false,
+      "showComments": false
+    },
+    {
+      "id": 6,
+      "title": "Meaning of life",
+      "content": "Autumn moonlight-\r\na worm digs silently\r\ninto the chestnut.",
+      "author": "steve",
+      "timestamp": "2017-03-19T13:15:27.568Z",
+      "comments": [],
+      "favorite": false,
+      "showComments": false
+    },
+    {
+      "id": 7,
+      "title": "Storm",
+      "content": "Lightning flash—\r\nwhat I thought were faces\r\nare plumes of pampas grass.",
+      "author": "steve",
+      "timestamp": "2017-03-19T13:15:46.186Z",
+      "comments": [
+        {
+          "content": "sjećanja na ljetne noći pod zvjezdanim nebom",
+          "author": "maria",
+          "timestamp": "2017-04-02T12:30:03.071Z"
+        }
+      ],
+      "favorite": true,
+      "showComments": false
+    },
+    {
+      "id": 8,
+      "title": "Nedjelja",
+      "content": "Kruh na stolu.\r\nOkupljeni pred objed,\r\nmirišemo mir...",
+      "author": "steve",
+      "timestamp": "2017-03-19T13:16:08.089Z",
+      "comments": [],
+      "favorite": false,
+      "showComments": false
+    },
+    {
+      "id": 9,
+      "title": "Duboka",
+      "content": "Čak ni pred carem\r\nstrašilo neće skinuti\r\npleteni šešir.",
+      "author": "steve",
+      "timestamp": "2017-03-19T13:16:19.618Z",
+      "comments": [],
+      "favorite": false,
+      "showComments": false
+    },
+    {
+      "id": 10,
+      "title": "Jesnje lišće",
+      "content": "Za me koji odlazim,\r\nza tebe koja ostaješ\r\n– dvije jeseni.",
+      "author": "steve",
+      "timestamp": "2017-03-19T13:16:35.867Z",
+      "comments": [],
+      "favorite": false,
+      "showComments": false
+    },
+    {
+      "id": 11,
+      "title": "Galeb",
+      "content": "Gledaj galeba\r\ngdje gnijezdo morske pjene\r\nkrilima skriva.",
+      "author": "steve",
+      "timestamp": "2017-03-19T13:17:12.393Z",
+      "comments": [],
+      "favorite": false,
+      "showComments": false
+    },
+    {
+      "id": 12,
+      "title": "Mjesto pod suncem",
+      "content": "Crveno sunce\r\nu plavo more tone\r\ngdje mu gasne sjaj.",
+      "author": "steve",
+      "timestamp": "2017-03-19T13:17:27.560Z",
+      "comments": [],
+      "favorite": false,
+      "showComments": false
+    },
+    {
+      "id": 13,
+      "title": "Pokisli",
+      "content": "More se ljulja,\r\nplavi valovi šume -\r\neno, ide brod!",
+      "author": "steve",
+      "timestamp": "2017-03-19T13:17:43.680Z",
+      "comments": [],
+      "favorite": false,
+      "showComments": false
+    },
+    {
+      "id": 14,
+      "title": "Proljeće",
+      "content": "Orhideja nas\r\nkao žena osvaja\r\nsvojom ljepotom.",
+      "author": "peter",
+      "timestamp": "2017-03-19T13:18:18.896Z",
+      "comments": [],
+      "favorite": false,
+      "showComments": false
+    },
+    {
+      "id": 15,
+      "title": "Jesen u mom zavičaju",
+      "content": "Galeb visoko,\r\nriba negdje duboko,\r\nmirno plovi brod.",
+      "author": "peter",
+      "timestamp": "2017-03-19T13:18:32.057Z",
+      "comments": [],
+      "favorite": false,
+      "showComments": false
+    },
+    {
+      "id": 16,
+      "title": "Plaža zimi",
+      "content": "Zrnca bi pijeska\r\niz pustinje sad pošla\r\nna plažu mora.",
+      "author": "peter",
+      "timestamp": "2017-03-19T13:18:46.554Z",
+      "comments": [],
+      "favorite": false,
+      "showComments": false
+    },
+    {
+      "id": 17,
+      "title": "Ljeto",
+      "content": "Zrnca bi pijeska\r\niz pustinje sad pošla\r\nna plažu mora.",
+      "author": "Mark",
+      "timestamp": "2017-03-19T13:32:00.631Z",
+      "comments": [],
+      "favorite": false,
+      "showComments": false
+    },
+    {
+      "id": 18,
+      "title": "Pučina",
+      "content": "Stablo cvjeta\r\ncvijećem crvenim\r\nplava izmaglica",
+      "author": "john",
+      "timestamp": "2017-03-19T13:34:37.557Z",
+      "comments": [],
+      "favorite": false,
+      "showComments": false
+    },
+    {
+      "id": 19,
+      "title": "Jesen",
+      "content": "Dok lišće šušti,\r\niza brijega već čuči\r\nu oblaku grom.",
+      "author": "Mark",
+      "timestamp": "2017-03-19T13:37:17.372Z",
+      "comments": [],
+      "favorite": false,
+      "showComments": false
+    },
+    {
+      "id": 20,
+      "title": "Haiku",
+      "content": "Rijeka snova\r\nvrelo nade\r\nvrtlog želja",
+      "author": "john",
+      "timestamp": "2017-03-19T16:14:52.376Z",
+      "comments": [],
+      "favorite": false,
+      "showComments": false
+    },
+    {
+      "id": 21,
+      "title": "Deblo",
+      "content": "Onkraj puta,\r\nkraj stabla starog\r\nstoji maslačak",
+      "author": "maria",
+      "comments": [],
+      "timestamp": "2017-04-02T12:30:15.020Z"
+    }
+  ],
+  "users": [
+    {
+      "username": "john",
+      "email": "john@hotmail.com",
+      "password": "1234",
+      "favorites": []
+    },
+    {
+      "username": "steve",
+      "email": "steve@gmail.com",
+      "password": "1234",
+      "favorites": [
+        6,
+        5,
+        7,
+        0,
+        1
+      ]
+    },
+    {
+      "username": "Mark",
+      "email": "mark@gmail.com",
+      "password": "1234",
+      "favorites": [
+        8,
+        15,
+        7
+      ]
+    },
+    {
+      "username": "peter",
+      "email": "peter@hotmail.com",
+      "password": "1234",
+      "favorites": []
+    },
+    {
+      "username": "sam",
+      "email": "sam@mail.com",
+      "password": "1234",
+      "favorites": [
+        7,
+        6,
+        8,
+        1,
+        18,
+        14,
+        15,
+        16,
+        19,
+        0
+      ]
+    },
+    {
+      "username": "maria",
+      "email": "maria@gmail.com",
+      "password": "1234",
+      "favorites": [
+        0
+      ]
+    }
+  ]
+}

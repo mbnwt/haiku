@@ -1,0 +1,68 @@
+.background {
+    background: url('/images/garden.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+body {
+    background-color: transparent !important;
+}
+
+.top {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+.top-title {
+    padding-right: 8%;
+    color: white;
+    font-size: 48px;
+}
+.top-routes {
+    padding-right: 5%;
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+}
+.top-routes:hover {
+    color: #bbb;
+    border: 10px white;
+    text-decoration: none;
+}
+
+.about-text {
+    color: white;
+    margin-top: 50px;
+}
+
+.haiku-container {
+    background-color: rgba(25, 24, 15, 0.9);
+    border-radius: 8px;
+    white-space: pre;
+    max-width: 400px;
+    margin-top: 85px;
+    text-align: center;
+    color: white;
+}
+.haiku-tooltip {
+    margin-left: 20%;
+    text-align: left;
+    color: white;
+}
+
+.haiku-bottom {
+    display: inline;
+    margin-left: 20px; 
+    color: white;
+}
+.haiku-bottom-icons {
+    font-size: 1.3em;
+}
+
+.comments {
+    margin-top: 10px;
+    text-align: left;
+    color: white;
+}
+
+
